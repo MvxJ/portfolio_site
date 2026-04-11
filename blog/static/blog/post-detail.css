@@ -19,6 +19,23 @@ body {
   height: 22rem;
 }
 
+#summary a {
+  color: white;
+  text-decoration: none;
+}
+
+.tags {
+  color: white;
+  background-color: #cf79f1;
+  border-radius: 5px;
+  width: auto;
+  min-width: 25px;
+  max-width: 100px;
+  position: relative;
+  padding: 0.5rem;
+  text-align: center;
+}
+
 #summary h2 {
   color: white;
   font-size: 4.5rem;
